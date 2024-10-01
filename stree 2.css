@@ -1,0 +1,355 @@
+.one-li::marker {
+    content: "👻";
+    font-size: 30px;
+    text-shadow: 10px 5px 5px white;
+}
+
+.two-li::marker {
+    content: "👻";
+    font-size: 30px;
+    text-shadow: 10px 5px 5px white;
+}
+
+.three-li::marker {
+    content: "👻";
+    font-size: 30px;
+    text-shadow: 10px 5px 5px white;
+}
+
+.four-li::marker {
+    content: "👻";
+    font-size: 30px;
+    text-shadow: 10px 5px 5px white;
+}
+
+.five-li::marker {
+    content: "👻";
+    font-size: 30px;
+    text-shadow: 10px 5px 5px white;
+}
+
+.six-li::marker {
+    content: "👻";
+    font-size: 30px;
+    text-shadow: 10px 5px 5px white;
+}
+.seven-li::marker {
+    content: "👻";
+    font-size: 30px;
+    text-shadow: 10px 5px 5px white;
+}
+
+
+
+body {
+    background-image: url(" https://static.vecteezy.com/system/resources/previews/003/441/436/non_2x/dark-black-texture-with-beautiful-stars-vector.jpg");
+    width: 900px;
+    height: 563px;
+}
+
+.one-para {
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/923/558/desktop-wallpaper-outrun-neon-dark-background-purple-abstract-purple-neon.jpg");
+    width: 1000px;
+    height: 610px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    height: 640px;
+}
+
+.one-para:hover {
+    box-shadow: 15px 15px 20px white;
+    transition: 2s;
+    border-radius: 5%;
+    border-color: aliceblue;
+    font-size: larger;
+    text-shadow: 10px 5px 5px black;
+    transition: 2s;
+    height: 640px;
+}
+
+.two-para {
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/923/558/desktop-wallpaper-outrun-neon-dark-background-purple-abstract-purple-neon.jpg");
+    width: 1000px;
+    height: 563px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    height: 640px;
+}
+
+.two-para:hover {
+    box-shadow: 15px 15px 20px white;
+    transition: 2s;
+    border-radius: 5%;
+    border-color: aliceblue;
+    font-size: larger;
+    text-shadow: 10px 5px 5px black;
+    transition: 2s;
+    height: 670px;
+}
+
+.three-para {
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/923/558/desktop-wallpaper-outrun-neon-dark-background-purple-abstract-purple-neon.jpg");
+    width: 1000px;
+    height: 650px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    height: 640px;
+}
+
+.three-para:hover {
+    box-shadow: 15px 15px 20px white;
+    transition: 2s;
+    border-radius: 5%;
+    border-color: aliceblue;
+    font-size: larger;
+    text-shadow: 10px 5px 5px black;
+    transition: 2s;
+    height: 660px;
+}
+
+.four-para {
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/923/558/desktop-wallpaper-outrun-neon-dark-background-purple-abstract-purple-neon.jpg");
+    width: 1000px;
+    height: 563px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    height: 640px;
+}
+
+.four-para:hover {
+    box-shadow: 15px 15px 20px white;
+    transition: 2s;
+    border-radius: 5%;
+    border-color: aliceblue;
+    font-size: larger;
+    text-shadow: 10px 5px 5px black;
+    transition: 2s;
+    height: 710px;
+}
+
+.five-para {
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/923/558/desktop-wallpaper-outrun-neon-dark-background-purple-abstract-purple-neon.jpg");
+    width: 1000px;
+    height: 563px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    height: 620px;
+}
+
+.five-para:hover {
+    box-shadow: 15px 15px 20px white;
+    transition: 2s;
+    border-radius: 5%;
+    border-color: aliceblue;
+    font-size: larger;
+    text-shadow: 10px 5px 5px black;
+    transition: 2s;
+    height: 620px;
+}
+
+.six-para {
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/923/558/desktop-wallpaper-outrun-neon-dark-background-purple-abstract-purple-neon.jpg");
+    width: 1000px;
+    height: 563px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    height: 500px;
+}
+
+.six-para:hover {
+    box-shadow: 15px 15px 20px white;
+    transition: 2s;
+    border-radius: 5%;
+    border-color: aliceblue;
+    font-size: larger;
+    text-shadow: 10px 5px 5px black;
+    transition: 2s;
+    height: 500px;
+}
+
+hr {
+    width: 1050px;
+}
+
+h1 {
+    color: white;
+    font: bold;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: Copperplate, "Copperplate Gothic Light";
+    text-align: center;
+    margin-left: 200px;
+    text-shadow: 7px 5px 5px white;
+}
+h1:hover{
+    font-size: 60px;
+    color: aliceblue;
+    transition: 3s;
+}
+
+h2 {
+    font-family: "Courier New", Courier;
+    color: white;
+    font: bold;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.one-inside {
+    margin-top: 2px;
+    font-size: medium;
+}
+
+.one-head {
+    text-align: left;
+    margin-left: 40px;
+    margin-top: 20px;
+
+}
+
+.one-img {
+    width: 270px;
+    height: 360px;
+    display: inline;
+    text-align: right;
+    justify-content: right;
+    margin-left: 400px;
+}
+
+.two-img {
+    width: 600px;
+    height: 360px;
+    display: inline;
+    text-align: center;
+    margin-left: 200px;
+}
+
+.three-img {
+    width: 600px;
+    height: 350px;
+    display: inline;
+    text-align: center;
+    margin-left: 200px;
+}
+
+.four-img {
+    width: 300px;
+    height: 350px;
+    display: inline;
+    text-align: center;
+    margin-left: 200px;
+}
+
+.five-img {
+    width: 600px;
+    height: 340px;
+    display: inline;
+    text-align: center;
+    margin-left: 200px;
+}
+
+.video {
+    margin-left: 200px;
+    font-size: large;
+}
+
+footer {
+    background-image: url(" https://static.vecteezy.com/system/resources/previews/003/441/436/non_2x/dark-black-texture-with-beautiful-stars-vector.jpg");
+    width: 900px;
+    height: 563px;
+}
+
+.footer {
+    margin-left: 200px;
+    margin-top: 150px;
+    height: 200px;
+    width: 200px;
+
+}
+
+.hr-one {
+    width: 1260px;
+}
+
+.Netflix {
+    color: red;
+
+}
+
+.Amazon {
+    color: blue;
+}
+
+.Porshe {
+    color: yellow;
+}
+
+.G-wagon {
+    color: silver;
+}
+
+.one-foot {
+    display: flex;
+}
+
+.two-foot {
+    display: flex;
+
+}
+
+.three-foot {
+    display: flex;
+}
+
+.four-foot {
+    display: flex;
+}
+*{
+    font-family: Copperplate, "Copperplate Gothic Light";
+}
+
+
+
+         /* Basic Button Styling */
+         .btn-outline {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: #3498db;
+            /* Text color */
+            border: 2px solid #3498db;
+            /* Border color */
+            background-color: transparent;
+            /* Transparent background */
+            border-radius: 5px;
+            /* Optional: rounded corners */
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        /* Hover effect */
+        .btn-outline:hover {
+            background-color: #3498db;
+            /* Fill the button */
+            color: white;
+            /* Change text color */
+        }
+
+        /* Optional: Active and Focus States */
+        .btn-outline:active {
+            transform: scale(0.98);
+            /* Slight shrink on click */
+        }
+
+        .btn-outline:focus {
+            outline: none;
+            box-shadow: 0 0 5px rgba(52, 152, 219, 0.5);
+            /* Add a focus ring */
+        }
